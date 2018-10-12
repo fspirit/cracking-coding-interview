@@ -3,7 +3,7 @@
 struct Node
 {
 	int value;
-	std::shared_ptr<Node> next;
+	Node * next;
 
 	Node(int value): value(value), next(nullptr) {};	
 };

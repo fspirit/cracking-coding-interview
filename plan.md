@@ -22,7 +22,8 @@
 	- 2-3 Trees 
 	- B-trees
 - Graphs
-	- Dijkstra (Cannot handle negative edges)
+	- Dijkstra (Cannot handle negative edges, Greedy Algo with PQ)
+	- Bellman-Ford (DP algo)
 	- All sources shortest paths (Floyd-Marshall, Johnson)
 - Robin-Karp Substring Search
 - 
